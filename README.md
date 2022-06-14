@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
+# Fellipe Macedo
 <sub>*Student Data Scientist* at Sigmoidal</sub>
 
 
