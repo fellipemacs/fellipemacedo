@@ -17,7 +17,7 @@
 
 ## Projetos:
 
-* Analisando os Dados do Airbnb em Paris-França: 
+* Analisando os Dados do Airbnb em Paris-França: https://github.com/fellipemacs/fellipemacedo/blob/main/C%C3%B3pia_de_%5BTemplate%5D_Analisando_os_Dados_do_Airbnb_Paris.ipynb
 
 
 ---
